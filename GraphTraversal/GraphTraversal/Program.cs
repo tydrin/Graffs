@@ -11,6 +11,7 @@ namespace Graphs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello :)");
             Graph graph = new Graph();
             graph.DepthFirstSearch();
             Console.WriteLine();
